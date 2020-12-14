@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Software Engineer pursuing Master of Information Technology (specialization in Artificial Intelligence). I am looking to deepen my IT knowledge. 
+I am a Software Engineer pursuing Master of Information Technology (specialization in Artificial Intelligence). I am looking to deepen my IT knowledge balancing Software Development and Machine Learning. 
 
 <!--
 **alexantoniogonzalez2/alexantoniogonzalez2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
