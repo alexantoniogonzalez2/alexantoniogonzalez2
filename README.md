@@ -1,10 +1,5 @@
 ### Hi there, Alex here 👋
 
-A generalist rather than a specialist, slightly more backend oriented. I've specialized in the last years in the AWS stack. I know a bit about Machine Learning too. 
-
-### My average day at work
-<img src="https://media.giphy.com/media/XGqDsE3owV0RO/giphy.gif" width="400">
-
 ### 📫 Reach me at:
 https://www.linkedin.com/in/alex-gonzalez-tobar/
 
