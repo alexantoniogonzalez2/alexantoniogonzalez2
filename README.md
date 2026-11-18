@@ -1,5 +1,7 @@
 ### Hi there, Alex here 👋
 
+Most of my public projects are assignments from my Master of Information Technology at the University of Melbourne, which I completed in 2021.
+
 ### 📫 Reach me at:
 https://www.linkedin.com/in/alex-gonzalez-tobar/
 
